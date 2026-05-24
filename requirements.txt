@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+faiss-cpu
+langchain
+langchain-community
+langchain-core
+langchain-groq
+sentence-transformers
+huggingface-hub
+pydantic
+tiktoken
+numpy
+requests
