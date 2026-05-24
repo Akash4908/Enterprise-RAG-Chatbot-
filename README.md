@@ -30,7 +30,7 @@ A production-style **Retrieval-Augmented Generation (RAG)** chatbot built using:
 # 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Akash4908/Enterprise-RAG-Chatbot-.git
 cd enterprise_rag_chatbot
 ```
 
